@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: gainsboro;
+}
+
+
+#guess-number{
+   width: 200px ;
+   height: 50px;
+   border-radius: 10px;
+   border-color: none;
+   margin: 16px;
+  
+}
+
+#guess-number :active{
+    width: 300;
+
+}
+#submit-value{
+    width: 100px;
+    height: 50px;
+
+}
+
